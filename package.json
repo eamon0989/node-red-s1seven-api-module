@@ -1,0 +1,17 @@
+{
+	"name": "node-red-s1seven-api",
+	"version": "1.0.0",
+	"description": "",
+	"main": "example.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"node-red": {
+		"nodes": {
+			"s1seven-api": "s1sevenApi.js"
+		}
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
